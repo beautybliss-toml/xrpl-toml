@@ -1,0 +1,19 @@
+[[ISSUERS]]
+address = "rBpnfk7QCk1wVaCNGLYsqDMUFBh7KUSqEn"
+name = "Moongirl589"
+
+[[TOKENS]]
+issuer = "rBpnfk7QCk1wVaCNGLYsqDMUFBh7KUSqEn"
+currency = "MG589"
+name = "Moongirl589"
+desc = "The sister memecoin to Moonboi589. Decentralised Memetics. No Kings, Only Memes"
+icon = "https://ipfs.io/ipfs/bafkreibgrz4u6qjqbszh766oy5dbwcbm7usxzi6dngmccltnnzmwxt5e2u"
+
+[[TOKENS.WEBLINKS]]
+url = "https://moonboi589.com/"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/MoonGirl589/"
+type = "socialmedia"
