@@ -10,10 +10,10 @@ desc = "The sister memecoin to Moonboi589. Decentralised Memetics. No Kings, Onl
 icon = "https://ipfs.io/ipfs/bafkreibgrz4u6qjqbszh766oy5dbwcbm7usxzi6dngmccltnnzmwxt5e2u"
 
 [[TOKENS.WEBLINKS]]
-url = "https://moonboi589.com/"
+url = "https://moonboi589.com"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://x.com/MoonGirl589/"
+url = "https://x.com/MoonGirl589"
 type = "socialmedia"
